@@ -1,0 +1,64 @@
+section.gnomeVSroots {
+    min-height: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: #E8DCCC;
+    color: #373234;
+}
+
+div.trailer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 100px;
+}
+
+iframe.trailer {
+    width: 640px;
+    height: 360px;
+}
+
+div.trailer_shadow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #37323480;
+    overflow: hidden;
+    z-index: 1;
+}
+
+div.discription {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+span.discription {
+    max-width: 500px;
+}
+
+.gnomeVSroots_link {
+    border: 2px solid #373234;
+    background-color: #E8DCCC;
+    width: 150px;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: large;
+    text-decoration: none;
+    text-align: center;
+    color: #D84339;
+    box-shadow: 5px 5px 5px #37323480;
+}
+
+.gnomeVSroots_link:hover {
+    font-size: larger;
+    background-color: #e7d2b7;
+    box-shadow: 5px 5px 5px #373234;
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Fixel Regular;
+    src: url("../res/fonts/MacPawFixelText-Regular.ttf");
+    font-family: Fixel Display SemiBold;
+    src: url("../res/fonts/MacPawFixelDisplay-SemiBold.ttf");
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    color: #373234;
+    font-family: "Fixel Display SemiBold";
+}
+
+h1 {
+    color: #D84339
+}

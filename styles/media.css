@@ -1,0 +1,27 @@
+@media (max-width: 800px) {
+    div.picture {
+        border-right: 0;
+        border-bottom: 2px solid #D84339;
+        padding-right: 0;
+        padding-bottom: 45px;
+    }
+    
+    .left_info {
+        border-right: 0;
+        border-bottom: 2px solid #D84339;
+        padding-right: 0;
+        padding-bottom: 45px;
+    }
+    
+    .right_info {
+        border-right: 0;
+        border-bottom: 2px solid #D84339;
+        padding-right: 0;
+        padding-bottom: 45px;
+    }
+
+    iframe.trailer {
+        width: 320px;
+        height: 180px;
+    }
+}
