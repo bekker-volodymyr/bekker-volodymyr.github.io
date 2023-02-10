@@ -1,1 +1,0 @@
-# bekker-volodymyr.github.io
