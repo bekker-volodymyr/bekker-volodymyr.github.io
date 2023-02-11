@@ -7,13 +7,13 @@ section.gnomeVSroots {
     flex-wrap: wrap;
     background: #E8DCCC;
     color: #373234;
+    gap: 100px;
 }
 
 div.trailer {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-right: 100px;
 }
 
 iframe.trailer {

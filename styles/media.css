@@ -11,6 +11,7 @@
         border-bottom: 2px solid #D84339;
         padding-right: 0;
         padding-bottom: 45px;
+        text-align: center;
     }
     
     .right_info {
@@ -18,10 +19,29 @@
         border-bottom: 2px solid #D84339;
         padding-right: 0;
         padding-bottom: 45px;
+        text-align: center;
+    }
+
+    .contacts {
+        text-align: center;
     }
 
     iframe.trailer {
         width: 320px;
         height: 180px;
+    }
+
+    section.gnomeVSroots {
+        gap: 10px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .name {
+        font-size: 17pt;
+    }
+
+    .cv {
+        gap: 25px;
     }
 }
