@@ -1,9 +1,9 @@
 .cv {
     display: flex;
-    align-items: flex-start;
+    align-items: stretch;
     justify-content: center;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 50px;
     border-bottom: 2px solid #373234;
     padding-bottom: 40px;
@@ -18,9 +18,9 @@ div.picture {
 }
 
 img.picture {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
+    width: 230px;
+    height: 230px;
+    border-radius: 70px;
 }
 
 .left_info {

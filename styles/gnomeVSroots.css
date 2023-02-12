@@ -42,6 +42,7 @@ div.discription {
 
 span.discription {
     max-width: 500px;
+    text-align: center;
 }
 
 .gnomeVSroots_link {
