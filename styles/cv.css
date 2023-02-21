@@ -21,6 +21,7 @@ img.picture {
     width: 230px;
     height: 230px;
     border-radius: 70px;
+    object-fit: cover;
 }
 
 .left_info {
@@ -31,4 +32,21 @@ img.picture {
 .right_info {
     border-right: solid 2px #D84339;
     padding-right: 50px;
+}
+
+.profiles {
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding-right: 20px;
+}
+
+.github {
+    margin-right: 20px;
+}
+
+.icon:hover {
+    width: 80px;
+    height: 80px;
 }
