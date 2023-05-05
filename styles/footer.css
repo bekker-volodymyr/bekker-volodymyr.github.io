@@ -1,0 +1,25 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 2px solid #373234;
+    background-color: #F3ECE4;
+    margin-bottom: 10px;
+}
+
+.profiles {
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.github {
+    margin-right: 20px;
+}
+
+.icon:hover {
+    width: 51px;
+    height: 51px;
+}
